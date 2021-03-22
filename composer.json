@@ -1,6 +1,6 @@
 {
     "name": "megaventory/packagist-reserve",
-    "description": "A Namespace Reservation Package for Packagist",
+    "description": "Reserve Megaventory Namespace on Packagist",
     "authors": [
         {
             "name": "Megaventory",
