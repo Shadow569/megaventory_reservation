@@ -1,0 +1,11 @@
+{
+    "name": "megaventory/packagist-reserve",
+    "description": "A Namespace Reservation Package for Packagist",
+    "authors": [
+        {
+            "name": "Megaventory",
+            "email": "info@megaventory.com"
+        }
+    ],
+    "require": {}
+}
